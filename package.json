@@ -8,7 +8,7 @@
     "cloudinary": "^1.18.1"
   },
   "scripts": {
-    "build": "pwd",
+    "build": "touch public/index.html",
     "start": "node ."
   }
 }
