@@ -8,6 +8,7 @@
     "cloudinary": "^1.18.1"
   },
   "scripts": {
+    "build": "pwd > public/index.html",
     "start": "node ."
   }
 }
