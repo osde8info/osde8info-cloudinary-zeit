@@ -1,0 +1,14 @@
+{
+  "build": {
+    "env": {
+      "MYAPI": "@my_cloudinary_apikey",
+      "MYSECRET": "@my_cloudinary_apisecret"
+    }
+  }
+},
+{
+    "env": {
+      "MYAPI": "@my_cloudinary_apikey",
+      "MYSECRET": "@my_cloudinary_apisecret"
+    }
+}
